@@ -4,7 +4,7 @@ var accountPassword = "12345"
 accountCity = "jaipur"
 let accountState;
 
-//   accountId = 2  // not allowed
+//   accountId = 2  not allowed
 
 
 
